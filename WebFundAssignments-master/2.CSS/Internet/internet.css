@@ -1,0 +1,111 @@
+#wrapper{
+    width:1025px;
+    background-color: white;
+    border:2px solid black;
+    padding:10px;
+}
+#header{
+    width:1000px;
+    height:170px;
+    
+ }
+
+
+    .top{
+        width:1000px;
+        height:120px;
+        }
+    .bottom{
+        width:1000px;
+        height:80px;
+    }
+     #header img{
+       
+        width:140px;
+    }   
+    #header h1{
+        display:inline-block;
+        font-size: 40px;
+         border:1px solid blue;
+        vertical-align:top;
+        padding: 5px;
+        
+    }
+    #header span{
+        color:blue;
+    }
+    #header h2{
+        vertical-align: top;
+        background-color: rgb(0, 110, 255);
+        color:white;
+        padding:10px;
+        border:2px solid ;
+        margin:0px;
+        
+    }
+#navigation{
+    padding:10px;
+    width:200px;
+    height:700px;
+    border:2px solid red;
+    display:inline-block;
+}
+     .upper{
+         padding:10px;
+    vertical-align: top;
+    width:200px;
+    height:300px;
+    display:inline-block;
+}
+
+   .lower{
+       padding:10px;
+    width:200px;
+    height:400px;
+    background-image: url("images/ad_background.png");
+    display:inline-block;
+    border:2px solid red;
+    
+} 
+.lower p{
+    font-size: 24px;
+    color:white;
+}
+ .lower img{
+    width:150px;
+    height:200px;
+    
+}
+ #maincontent{
+    vertical-align: top;
+    width:750px;
+    height:700px;
+    padding:20px;
+    border:2px solid blue;
+    display:inline-block;
+
+}
+.header{
+    width:700px;
+    height:50px;
+    border-bottom:1px solid black;
+    
+}
+.header img{
+    width:30px;
+    height:30px;
+}
+.header h3{
+    display:inline;
+    color:blue;
+    margin-right: 400px;
+}
+
+#footer{
+    width:750px;
+    height:200px;
+    padding:20px;
+    border:2px solid blue;
+    
+    margin-left:208px;
+}

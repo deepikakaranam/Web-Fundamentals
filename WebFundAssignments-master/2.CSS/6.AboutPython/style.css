@@ -1,0 +1,178 @@
+*{
+    margin:0px;
+}
+
+
+#header{
+    
+    width: 970px;
+    height:150px;
+    margin:0px 0px 0px 10px;
+    background-color:#096b92;
+
+}
+.image{
+   
+    display:inline-block;
+    width:300px;
+    margin-right: 150px;
+}
+.sub{
+    vertical-align: top;
+    display: inline-block;
+    text-align: right;
+     width:400px;
+    height:50px; 
+    color:white;
+    
+     
+    
+
+}
+
+ul{
+    display: inline-block;
+        
+   }
+ul li{
+    display: inline-block;
+   
+    
+}
+a{
+    color:yellow;
+}
+button{
+    background-color: blue;
+}
+.heading{
+    width:700px;
+    height:40px;
+    margin-left:100px;
+    padding:5px;
+   font-size: 20px;
+   background-color: skyblue;
+   border-radius: 5px;
+}
+.heading li{
+    margin:12px;
+}
+#content{
+    width:970px;
+    height:200px;
+    background-color:#096b92;
+    margin:0px 0px 0px 10px;
+}
+ .leftcontent{
+    width:300px;
+    height:200px;
+    text-align: center;
+    display:inline-block;
+    vertical-align: top;
+   }
+.leftcontent ul li{
+    display:block;
+    
+}
+.leftcontent li:before{
+    content:">>";
+    color:yellow;
+}
+.leftcontent a{
+    color:white;
+}
+.rightcontent{
+    width:600px;
+    height:400px;
+    display:inline-block;
+}
+.righttop{
+    vertical-align: top;
+    text-align-last: center;
+    width:600px;
+    height:75px;
+    font-size: 12px;
+    color:white;
+    display:inline-block;
+    
+   }
+   .span{
+       text-align: center;
+   } 
+   .rightbottom{
+    width:600px;
+    height:150px;
+    text-align: center;
+    display:inline-block;
+   
+   }
+   .rightbottom ul li{
+    display:block;
+    color:yellow;
+    font-style: italic;
+    
+   }
+   .rightbottom p{
+    text-align: center;
+    color:white;
+   }
+
+   #footer{
+       width:970px;
+       height:230px;
+       background-color: azure;
+       margin-left:10px;
+       font-size: 15px;
+       
+      
+   }
+   h2{
+       text-align: center;
+       font-weight: bold;
+   }
+   .subfooter{
+       margin:20px 40px 20px;
+    vertical-align: top;
+    border-top:2px solid blue;
+      padding:20px;
+       width:350px;
+       height:180px;
+       display:inline-block;
+      
+   }
+   .subfooter p{
+       text-align-last: center;
+   }
+   .subfooter ul li{
+       color:blue;
+       display:block;
+       text-align: center;
+       
+            
+   }
+   .subfooter ul li {
+    list-style-type: square;
+    
+   }
+   .subfooter a{
+       color:blue;
+       text-decoration: none;
+   }
+
+   
+
+   .bottom{
+       margin-left:10px;
+       width:970px;
+       height:75px;
+       background-color:#096b92;
+       text-align: center;
+   }
+   .bottom ul li{
+       display:inline-block;
+       padding:20px;
+   }
+       .bottom p{
+           font-size: 10px;
+       }
+  
